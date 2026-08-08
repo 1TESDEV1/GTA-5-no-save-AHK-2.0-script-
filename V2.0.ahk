@@ -57,7 +57,9 @@ UpdateBadge()
             g_badge.Destroy()
 
     ; Rebuild with correct colors
-    g_badge := Gui("-Caption +AlwaysOnTop +ToolWindow +LastFound +E0x20")
+    g_badge := Gui("-Caption +AlwaysOnTop +ToolWindow +LastFound")
+    g_badge.Opt("+E0x20")
+    WinSetTransColor("FF00FF", g_badge)
     g_badge.MarginX := 14
     g_badge.MarginY := 10
 
