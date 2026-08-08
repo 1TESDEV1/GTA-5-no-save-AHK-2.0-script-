@@ -12,9 +12,10 @@ A lightweight, fast, and secure AutoHotkey v2 script to instantly block outgoing
 * You need to have [AutoHotkey v2.0](https://www.autohotkey.com/) installed.
 
 ## 🚀 How to Use
-1. Download the script and double-click to run it.
-2. The script will automatically ask for **Administrator privileges** (this is required to manage Windows Firewall). Click Yes.
-3. Use the following hotkeys in-game:
+1. Make sure your GTA 5 graphics settings are set to **Borderless Fullscreen**.
+2. Download the script and double-click to run it.
+3. The script will automatically ask for **Administrator privileges** (this is required to manage Windows Firewall). Click Yes.
+4. Use the following hotkeys in-game:
 
 ### Hotkeys:
 * `Ctrl + F9`  -> **Enable No Save Mode** (Blocks connection)

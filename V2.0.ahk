@@ -3,7 +3,7 @@
 #SingleInstance Force
 
 ; ============================================
-; Network Policy Controller v2.3
+; Network Policy Controller v2.0
 ; Outbound filtering via Windows Firewall COM API
 ;
 ; Hotkeys:
