@@ -10,6 +10,8 @@ A lightweight, fast, and secure AutoHotkey v2 script to instantly block outgoing
 
 ## ⚙️ Requirements
 * You need to have [AutoHotkey v2.0](https://www.autohotkey.com/) installed.
+* Windows Firewall REQUIRED: You must have the default Windows Firewall active. If you use a third-party antivirus (like Bitdefender, Kaspersky, etc.), you do NOT need to uninstall it or turn off your virus protection. You just need to temporarily disable its built-in firewall module so the default Windows Firewall can take over. If the third-party firewall is running, it overwrites Windows Firewall and the script won't be able to block the connection.
+
 
 ## 🚀 How to Use
 1. Make sure your GTA 5 graphics settings are set to **Borderless Fullscreen**.
